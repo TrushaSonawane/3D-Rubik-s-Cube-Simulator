@@ -42,7 +42,7 @@ You only need a modern web browser to run the simulator.
 
 1. **Clone the repository:**
     ```bash
-    git clone [YOUR-REPO-LINK]
+    git clone https://github.com/TrushaSonawane/3D-Rubik-s-Cube-Simulator.git
     cd 3d-rubiks-cube-simulator
     ```
 2. **Open the file:**
